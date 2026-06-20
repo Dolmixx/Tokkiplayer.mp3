@@ -18,6 +18,11 @@ Similar to the arduino, the DFPlayer does not need to be attached to anything ex
 
 <img width="899" height="482" alt="Screenshot 2026-06-20 at 12 29 30 AM" src="https://github.com/user-attachments/assets/dc1a8acf-cb9f-4b08-a7d4-123d2b8d065c" />
 
+Additionally the battery pack can be placed in this spot if you move the DFPlayer to sit ontop of the arduino. It is reccomended you add this last though! 
+
+<img width="286" height="387" alt="Screenshot 2026-06-20 at 7 49 34 PM" src="https://github.com/user-attachments/assets/409f18f1-08e6-4b25-8759-5b888c34a487" />
+
+
 4. The LCD
 It is better to attach the LCD first before attaching the speakers as they may get in the way. Similar to the MFRC522, the LCD also attaches via 4 screws.
 
