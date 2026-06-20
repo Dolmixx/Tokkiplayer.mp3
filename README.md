@@ -1,6 +1,6 @@
 # Tokkiplayer.mp3
 
-<img width="460" height="649" alt="Screenshot 2026-06-20 at 6 21 19 AM" src="https://github.com/user-attachments/assets/925c5829-0c61-4ac9-9c03-7c97e19b77b9" />
+<img width="466" height="661" alt="Screenshot 2026-06-20 at 5 00 27 PM" src="https://github.com/user-attachments/assets/ad086d84-0490-45dc-9b32-d394b290b7cb" />
 
 Have you ever wanted a music player... perhaps themed around something perchance? Well now you can! The Tokkiplayer.mp3 is your friend, built with 2 speakers, LCD, RFID system, card storage, and a DFPlayer mini, it can easily play the songs you'd like! It has 5 buttons to pause/play (double press pause/play to shuffle), volume up and down, skip and go back so you can customize your music experience. It can store up to 3 seperate playlists that will activate when you tap the assigned card! 
 
