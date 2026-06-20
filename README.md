@@ -20,7 +20,8 @@ Sometimes (all the time) I get tired of stupid ads, they interupt my music and w
 Here's the assembly [linked](https://github.com/Dolmixx/Music-Player/blob/f97da29bf82256e8f8cfb7a76733c506acd79b36/Assembly.md)! It also provides some insight on how to format your SD card and set up.  
 
 # Wiring diagram
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/2b5e79e7-bdc1-4e0f-99f0-59bc8fd8b63d" />
+<img width="1329" height="622" alt="Screenshot 2026-06-20 at 1 34 58 AM" src="https://github.com/user-attachments/assets/0369c4dc-19d8-4e8d-99af-38f2374a5646" />
+
 
 
 # BOM 
