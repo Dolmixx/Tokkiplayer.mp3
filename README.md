@@ -21,6 +21,7 @@ Here's the assembly [linked](https://github.com/Dolmixx/Music-Player/blob/f97da2
 
 # Wiring diagram
 
+<img width="1368" height="759" alt="image" src="https://github.com/user-attachments/assets/173a3ccb-01ec-4806-bfa0-d7c74f1e4bfa" />
 
 
 # BOM 
