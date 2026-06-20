@@ -19,7 +19,7 @@ The cards then act as your "key" to playing a specific playlist, want to listen 
 Sometimes (all the time) I get tired of stupid ads, they interupt my music and when I'm getting into the zone. I just want to listen to my music in peace and as a person who adores the same songs on loop, this works perfectly to solve my problem. Who has the money to pay for a subscription? Not me. Also I only listen to a couple songs (my playlist is forever stuck at like 60 songs in which I loop the last 5 or something), so this is perfect! 
 
 # Assembly + Set up
-Here's the assembly [linked](https://github.com/Dolmixx/Music-Player/blob/d89c907a169f63c7a581223001ba0d8bccbacf9c/Production/Assembly.md)! It also provides some insight on how to format your SD card and set up.  
+Here's the assembly [linked](https://github.com/Dolmixx/Tokkiplayer.mp3/blob/main/Production/Assembly.md)! It also provides some insight on how to format your SD card and set up.  
 
 # Wiring diagram
 
