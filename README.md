@@ -40,3 +40,31 @@ Here's the assembly [linked](https://github.com/Dolmixx/Music-Player/blob/f97da2
 |       | SD Card 32 GB         | 1          | 9.9                  | 9.9               |                                      | https://www.amazon.ca/Class10-Memory-Extreme-Compatibility-Meomory/dp/B0GKPVR4RH/ref=asc_df_B0GKPVR4RH?mcid=81cbb74f2ead3923ab9d08bb27903260&tag=googleshopc0c-20&linkCode=df0&hvadid=796329561522&hvpos=&hvnetw=g&hvrand=11150107651841269628&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000833&hvtargid=pla-2465636681969&psc=1&hvocijid=11150107651841269628-B0GKPVR4RH-&hvexpln=0&gad_source=1                                                                                                                                                                                                                                                                                                                                                                                               |
 |       | 3D printer            | 1          | --                   | --                | All parts are printed                | https://ca.elegoo.com/products/elegoo-neptune-3-pro-fdm-3d-printer-225x225x280mm?variant=47691001331990&gad_source=1&gad_campaignid=21146430435&gbraid=0AAAAA9aWblxIYPv2Kgx6X_TRb_BmVVuXP&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTtcdhLPb5SRrrhN0RQ8vhm2l5y1o7px3MID8ENAvBih1Dg-k_EFNfhoClagQAvD_BwE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Total | --                    | --         | 28.94947391          | 49.55             |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+# Credits
+
+Websites/Tutorials that helped make this possible:
+
+https://docs.arduino.cc/built-in-examples/digital/Debounce/
+
+https://www.instructables.com/MP3-Player-With-Arduino-Using-DF-Player-Mini/
+
+https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/
+
+https://www.instructables.com/RFID-JukeBox-Using-Arduino-Uno-DFPlayerMini/
+
+https://www.instructables.com/Arduino-MFRC522-RFID-READER/
+
+Cad Models used: 
+
+[Arduino UNO](https://www.printables.com/model/358867-arduino-uno-3d-model-stp/files) By: Ludvig Broomé
+
+[LCD 16x2](https://www.printables.com/model/1235460-1602a-display-model) By: Даниил Неважно
+
+[DFPlayer](https://grabcad.com/library/dfplayer-mini-3) By: Danilo Diaz
+
+[RC522](https://grabcad.com/library/modulo-sensor-rfid-rc522-rf-ic-1) By: UNIT ELECTRONICS 
+
+[Speakers](https://grabcad.com/library/3-watt-8-ohm-mini-speaker-1) By: Jose Pedraza 
+
+[Buttons](https://grabcad.com/library/push-button-6x6x5mm-4pin-1/details?folder_id=6790054) By: Yusuf Savaş
