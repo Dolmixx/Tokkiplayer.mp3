@@ -23,7 +23,7 @@ Here's the assembly [linked](https://github.com/Dolmixx/Tokkiplayer.mp3/blob/mai
 
 # Wiring diagram
 
-<img width="1368" height="759" alt="image" src="https://github.com/user-attachments/assets/173a3ccb-01ec-4806-bfa0-d7c74f1e4bfa" />
+<img width="931" height="648" alt="Screenshot 2026-06-20 at 6 27 46 AM" src="https://github.com/user-attachments/assets/f5d3dfb6-617d-4e4c-827b-f377548f59ca" />
 
 
 # BOM 
