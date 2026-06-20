@@ -2,13 +2,11 @@
 
 <img width="460" height="649" alt="Screenshot 2026-06-20 at 6 21 19 AM" src="https://github.com/user-attachments/assets/925c5829-0c61-4ac9-9c03-7c97e19b77b9" />
 
+Have you ever wanted a music player... perhaps themed around something perchance? Well now you can! The Tokkiplayer.mp3 is your friend, built with 2 speakers, LCD, RFID system, card storage, and a DFPlayer mini, it can easily play the songs you'd like! It has 5 buttons to pause/play (double press pause/play to shuffle), volume up and down, skip and go back so you can customize your music experience. It can store up to 3 seperate playlists that will activate when you tap the assigned card! 
+
 <img width="788" height="559" alt="Screenshot 2026-06-20 at 12 32 02 AM" src="https://github.com/user-attachments/assets/a9db339e-2a7f-457c-90f1-46e3cb7e0281" />
 
 <img width="893" height="615" alt="Screenshot 2026-06-20 at 12 32 10 AM" src="https://github.com/user-attachments/assets/c9e28f60-c73c-4e34-bd68-08455a242f88" />
-
-
-# What is this? 
-To put simply this is a music player! Simply insert a SD card into the DFPlayer and start tapping cards to activate the playlist, you can double press the pause/play button to shuffle. It has speakers on both sides to give you a better listening experience with volume buttons! 
 
 # What does this do? 
 It plays music silly! No but what makes this unique is that it has a RFID reader, that means you take the RFID cards and tap. When you first boot up the system, it'll be looking for new cards to assign playlists to and can store up to 3. (Feel free to look at the code to understand this better, or change it up to you!) It uses a DFPlayer mini to play songs off of a SD card. (Note: the songs must be mp3 and each title must start with a 3 digit number ie. "004_Attention" more information in assembly guide) In firmware there is a download that can go straight into your SD card filled with songs from an artist called NewJeans. (Feel free to use it as reference or use it to listen to some banger music) 
