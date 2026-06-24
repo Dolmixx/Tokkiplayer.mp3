@@ -74,3 +74,10 @@ The SD card can be placed directly into the DFPlayer. Ensure you have songs on y
 If you plan on having up to 3 playlists, put your songs in different files (one file for each playlist) and rename the file "01", "02".. you get the point. The songs should start with a THREE digit number instead of a four digit number. This is because you have placed it in a folder. (There is a file in production that already has a bunch of NewJeans songs downloaded in that MP3 format if you want something to reference off of/are confused!)
 
 Additionally, to customize further if you'd like to have the LCD display the proper titles for your songs, go into the firmware code and look at the 3 playlists. The name of the playlist shouldn't be changed! But the names in the list can be, and feel free to add more as the code will adjust to the amount you add! (But i do reccomend listening to some NewJeans :D) 
+
+Below is what your SD card should look like!
+
+<img width="370" height="140" alt="Screenshot 2026-06-24 at 9 35 53 AM" src="https://github.com/user-attachments/assets/a318102c-50da-4406-91bf-1b142738e669" />
+
+<img width="693" height="171" alt="Screenshot 2026-06-24 at 9 36 10 AM" src="https://github.com/user-attachments/assets/91749881-7d2a-468c-a0d1-c481890b30bc" />
+
